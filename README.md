@@ -12,13 +12,13 @@ Below you can find links that you can use to
 6. Press "OK", and wait for the music to download.
 7. Refresh the list on-screen to ensure all 24 songs (numbered 0-23) are downloaded.
 
-##Links
+## Links
 
-***Animal Crossing: Population Growing***
+### Animal Crossing: Population Growing
 
 [Population Growing Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/PopulationGrowing/acpg.json)
 
-***Animal Crossing: Wild World/City Folk***
+### Animal Crossing: Wild World/City Folk
 
 [Wild World/City Folk Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/CityFolk/accf.json)
 
@@ -26,7 +26,7 @@ Below you can find links that you can use to
 
 [Wild World/City Folk Snow](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/CityFolk/accf-snow.json)
 
-***Animal Crossing: New Leaf***
+### Animal Crossing: New Leaf
 
 [New Leaf Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewLeaf/acnl.json)
 
@@ -34,7 +34,7 @@ Below you can find links that you can use to
 
 [New Leaf Snow](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewLeaf/acnl-snow.json)
 
-***Animal Crossing: New Horizons***
+### Animal Crossing: New Horizons
 
 [New Horizons Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewHorizons/acnh.json)
 
@@ -42,6 +42,6 @@ Below you can find links that you can use to
 
 [New Horizons Snow](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewHorizons/acnh-snow.json)
 
-##Credit
+## Credit
 
 The JSON files for the New Horizons and New Leaf soundtracks for rainy and snowy weather were helpfully provided by [TotsIsTots](https://github.com/TotsIsTots). Thank you tons for sharing them!
