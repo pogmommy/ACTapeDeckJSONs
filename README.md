@@ -14,11 +14,11 @@ Below you can find links that you can use to
 
 ##Links
 
-###Animal Crossing: Population Growing
+***Animal Crossing: Population Growing***
 
 [Population Growing Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/PopulationGrowing/acpg.json)
 
-###Animal Crossing: Wild World/City Folk
+***Animal Crossing: Wild World/City Folk***
 
 [Wild World/City Folk Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/CityFolk/accf.json)
 
@@ -26,7 +26,7 @@ Below you can find links that you can use to
 
 [Wild World/City Folk Snow](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/CityFolk/accf-snow.json)
 
-###Animal Crossing: New Leaf
+***Animal Crossing: New Leaf***
 
 [New Leaf Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewLeaf/acnl.json)
 
@@ -34,7 +34,7 @@ Below you can find links that you can use to
 
 [New Leaf Snow](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewLeaf/acnl-snow.json)
 
-###Animal Crossing: New Horizons
+***Animal Crossing: New Horizons***
 
 [New Horizons Normal](https://github.com/MPG13/ACTapeDeckJSONs/raw/main/NewHorizons/acnh.json)
 
